@@ -1,0 +1,13 @@
+/*
+*  Header style
+*/
+
+header {
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    justify-content: center;
+    align-items: 20px left;
+    background: #fff url('../images/logo.png') no-repeat;
+}
