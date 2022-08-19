@@ -22,3 +22,6 @@
     margin-top: 11px;
     float: right;
 }
+.filters button:hover {
+    opacity: 0.9;
+}
